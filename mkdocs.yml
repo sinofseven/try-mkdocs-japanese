@@ -1,0 +1,12 @@
+site_name: My Docs
+theme:
+  name: readthedocs
+  titles_only: true
+
+nav:
+  - はじめに:
+    - index.md
+  - APIリファレンス:
+    - reference/index.md
+
+plugins: []
